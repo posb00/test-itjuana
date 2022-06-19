@@ -5,11 +5,13 @@
 ```
 clone the project
 
+Make sure you can run PHP scripts 
+
 ```
 
 ### How To Run the proyect
 ```
-just go to the PHP-TEST File and open the terminal then run this command:
+just go to the Folder where you clone your Files and open the terminal then run this command:
 
 php command.php -s shipmentDestinations.txt -n driversNames.txt
 
